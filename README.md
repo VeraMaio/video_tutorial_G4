@@ -1,7 +1,7 @@
 # video_tutorial_G4
 Entrega do vídeo tutorial GRUPO 4: Layout e posicionamento de elementos: Foco em tudo, exceto grid ou flexbox. Grupo 4: Raquel Costa, Vera Maio, Catarina Ferreira e Mariana Moreira
 
-Link para acesso ao vídeo: https://we.tl/t-AZORZlih1j
+Link para acesso ao vídeo: https://youtu.be/rJYt8ZcGge4
 
 Exercício proposto em vídeo: https://rpmcst.github.io/enunciado_exercicio_G4
 
